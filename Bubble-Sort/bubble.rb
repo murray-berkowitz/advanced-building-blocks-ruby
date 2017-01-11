@@ -39,5 +39,5 @@ end
 
 my_arr = [-4,8,24,3,15,-5,48,11,63,75,-18,-4]
 p bubble_sort(my_arr)
-my_arr = [-14,28,24,-3,15,-25,41,11,63,5,-18,-4]
+my_arr = ['apple', 'alex','anogram','ape','beaver', 'banana']
 p bubble_sort_by(my_arr, &sort_comp)
